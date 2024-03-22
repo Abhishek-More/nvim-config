@@ -3,6 +3,7 @@
 Built with LazyNvim
 
 Noteable Plugins:
+* Lazy
 * Telescope
 * Bufferline
 * Neo-tree
